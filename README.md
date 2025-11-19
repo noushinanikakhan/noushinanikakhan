@@ -1,3 +1,7 @@
+
+<img width="1584" height="396" alt="Grey Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/261bc29d-9c9c-435a-9d85-a4264c536917" />
+
+
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hi 👋, I'm Noushin Anika Khan</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
